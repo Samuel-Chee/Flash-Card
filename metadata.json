@@ -1,0 +1,6 @@
+{
+  "name": "ModularDeck",
+  "description": "An intuitive Modular Canvas Workspace featuring a Bento Box widget grid, modular To Do List database boards, auto-syncing calendar, and tactile drop-zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
